@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(457,40): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(468,43): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(490,48): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(490,104): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(491,26): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(491,35): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  Coolsole.vcxproj -> C:\Users\adria\Desktop\VS\Coolsole\x64\Debug\Coolsole.exe

@@ -1,0 +1,14 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-mwindows'
+  main.cpp
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(462,40): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(475,43): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(497,48): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(497,104): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(498,26): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\Coolsole\Coolsole\main.cpp(498,35): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+  Generating code
+  1 of 662 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Coolsole.vcxproj -> C:\Users\adria\Desktop\VS\Coolsole\x64\Release\Coolsole.exe
